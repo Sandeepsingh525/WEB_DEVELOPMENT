@@ -1,5 +1,5 @@
 ## web-development
-# Here I have made a lifestyle store website using html, css and bootstrap
+# Here I have created a lifestyle store website using html, css and bootstrap
 ## Home page
 ![image](https://user-images.githubusercontent.com/55452981/169683595-f2fda2f6-5adb-4c7e-b0f2-a67ca18c8765.png)
  ## Login Page
